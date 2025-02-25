@@ -1,4 +1,3 @@
-Predicting Customer Review Scores Using Machine Learning
 Project Overview
 This project focuses on building a machine learning model to predict whether a customer review score for an order will be positive (4-5) or negative (1-3). The dataset includes customer orders, product details, payment information, and delivery metrics. The goal is to analyze key factors affecting review scores and provide actionable business recommendations.
 
